@@ -1,6 +1,6 @@
 from employee import Employee
 from department import Department
-from lib.review import Review
+from review import Review
 import pytest
 
 
